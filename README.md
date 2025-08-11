@@ -29,10 +29,7 @@ const dhruba = {
 ### 💻 Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🌐 Frontend Technologies
 
@@ -48,7 +45,6 @@ const dhruba = {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### 🛠️ Tools & Platforms
@@ -94,7 +90,7 @@ const dhruba = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruba001&repo=floating-dots&theme=radical" />
 </a>
 
-<!-- Add more projects as you create them -->
+<!-- Add more projects -->
 <!-- 
 <a href="https://github.com/dhruba001/your-next-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruba001&repo=your-next-project&theme=radical" />
@@ -109,12 +105,12 @@ const dhruba = {
 
 ```yaml
 current_projects:
-  - name: "Interactive Web Experiences"
-    tech: ["React", "Three.js", "Canvas API"]
+  - name: "Dev Tinder"
+    tech: ["React", "Redux", "Node.js"]
     status: "In Progress"
 
-  - name: "Full Stack Applications"
-    tech: ["Node.js", "MongoDB", "Express"]
+  - name: "NetflixGPT"
+    tech: ["Firebase", "React", "Redux", "OpenAI"  ]
     status: "Planning"
 
 learning:
@@ -132,7 +128,7 @@ learning:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruba-goswami-1a042317b/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dhruba_001)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://your-portfolio.com](https://personal-website-three-nu-59.vercel.app/#))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-website-three-nu-59.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdhruba748@gmail.com)
 
 ### 💬 Ask me about React, JavaScript, or anything tech-related!
