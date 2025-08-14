@@ -82,25 +82,6 @@ const dhruba = {
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/dhruba001/floating-dots">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruba001&repo=floating-dots&theme=radical" />
-</a>
-
-<!-- Add more projects -->
-<!-- 
-<a href="https://github.com/dhruba001/your-next-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruba001&repo=your-next-project&theme=radical" />
-</a>
--->
-
-</div>
-
----
-
 ## 🎨 What I'm Working On
 
 ```yaml
