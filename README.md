@@ -14,9 +14,9 @@
 
 ```javascript
 const dhruba = {
-  location: "🌍 Earth",
+  location: "Bangalore",
   currentFocus: "Building amazing web experiences",
-  interests: ["Web Development", "UI/UX Design", "Open Source"],
+  interests: ["Web Development", "UI/UX Design", "Open Source", "AI/ML", "Web3"],
   funFact: "I turn coffee ☕ into code 💻",
   motto: "Code with passion, create with purpose",
 };
